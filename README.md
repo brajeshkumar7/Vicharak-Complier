@@ -17,6 +17,15 @@ This project demonstrates core concepts of:
 
 The compiler is intentionally simple to focus on clarity, correctness, and learning, rather than optimization.
 
+## Folder Structure
+
+- `input.txt` : Example source file used for testing.
+- `lexer.c` : Lexer implementation in C.
+- `lexer.h` : Lexer header file / public interface.
+- `parser.c` : Parser and AST builder implementation in C.
+- `output.asm` : Sample generated assembly output.
+- `README.md` : Project documentation.
+
 ---
 
 ## CPU Overview
